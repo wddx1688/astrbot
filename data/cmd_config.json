@@ -38,7 +38,7 @@
       "enable": true,
       "key": [],
       "api_base": "https://models.aixplain.com/api/v1/",
-      "timeout": 120,
+      "timeout": 30,
       "model_config": {
         "model": "67fd9d6aef0365783d06e2ee"
       }
