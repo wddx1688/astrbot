@@ -6,5 +6,6 @@
         "python_interpreter",
         "web_search",
         "fetch_url"
-    ]
+    ],
+    "session_conversation": {}
 }
