@@ -1,0 +1,10 @@
+{
+    "inactivated_plugins": [
+        "packages.python_interpreter.main"
+    ],
+    "inactivated_llm_tools": [
+        "python_interpreter",
+        "web_search",
+        "fetch_url"
+    ]
+}
