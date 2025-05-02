@@ -37,10 +37,10 @@
       "type": "openai_chat_completion",
       "enable": true,
       "key": [],
-      "api_base": "https://models.aixplain.com/api/v1/",
+      "api_base": "https://helloapi.fly.dev/api/v1/",
       "timeout": 30,
       "model_config": {
-        "model": "67fd9d6aef0365783d06e2ee"
+        "model": "Meta-Llama-4-Maverick-17B-128E-Instruct-FP8"
       }
     }
   ],
