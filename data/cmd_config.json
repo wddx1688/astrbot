@@ -36,9 +36,7 @@
       "id": "openai",
       "type": "openai_chat_completion",
       "enable": true,
-      "key": [
-        "8b5c1916de725b2c95ad79e15531a23c5c6bf71575c6da8f96586a4252a00f97"
-      ],
+      "key": [],
       "api_base": "https://models.aixplain.com/api/v1/",
       "timeout": 120,
       "model_config": {
