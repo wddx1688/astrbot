@@ -7,6 +7,7 @@
     ],
     "session_conversation": {
         "webchat:FriendMessage:webchat!zhangwanli!04b75a54-b78f-4001-9a93-cf505e52f3ce": "c7300d01-2f2c-4e97-9ef2-8be3e4f403b7",
-        "webchat:FriendMessage:webchat!zhangwanli!acc0e924-71b3-4526-ab1f-2e342c679882": "eefc8b76-35b6-48b1-8995-4d021c9e0ed3"
+        "webchat:FriendMessage:webchat!zhangwanli!acc0e924-71b3-4526-ab1f-2e342c679882": "eefc8b76-35b6-48b1-8995-4d021c9e0ed3",
+        "telegram:FriendMessage:5579126130": "2a610027-b089-4d91-afad-634689023d47"
     }
 }
