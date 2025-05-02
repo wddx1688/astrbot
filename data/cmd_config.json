@@ -31,7 +31,21 @@
     "empty_mention_waiting": true,
     "friend_message_needs_wake_prefix": false
   },
-  "provider": [],
+  "provider": [
+    {
+      "id": "openai",
+      "type": "openai_chat_completion",
+      "enable": true,
+      "key": [
+        "8b5c1916de725b2c95ad79e15531a23c5c6bf71575c6da8f96586a4252a00f97"
+      ],
+      "api_base": "https://models.aixplain.com/api/v1/",
+      "timeout": 120,
+      "model_config": {
+        "model": "67fd9d6aef0365783d06e2ee"
+      }
+    }
+  ],
   "provider_settings": {
     "enable": true,
     "wake_prefix": "",
