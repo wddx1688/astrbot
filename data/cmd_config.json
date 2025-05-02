@@ -93,7 +93,7 @@
   "admins_id": [
     "astrbot"
   ],
-  "t2i": false,
+  "t2i": true,
   "t2i_word_threshold": 150,
   "t2i_strategy": "remote",
   "t2i_endpoint": "",
