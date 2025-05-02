@@ -1,0 +1,4 @@
+﻿{
+    "button_style": "全部加深",
+    "default_button_input": "插件-plugin, 文转图-t2i, 文转音-tts|函数工具-tool ls, 人格-persona list, LLM-llm|服务商-provider, 模型-model|对话列表-ls, 对话记录-history, 重置会话-reset"
+}
