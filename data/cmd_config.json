@@ -47,8 +47,8 @@
   "provider_settings": {
     "enable": true,
     "wake_prefix": "",
-    "web_search": false,
-    "web_search_link": false,
+    "web_search": true,
+    "web_search_link": true,
     "identifier": false,
     "datetime_system_prompt": true,
     "default_personality": "default",

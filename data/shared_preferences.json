@@ -3,9 +3,7 @@
         "packages.python_interpreter.main"
     ],
     "inactivated_llm_tools": [
-        "python_interpreter",
-        "web_search",
-        "fetch_url"
+        "python_interpreter"
     ],
     "session_conversation": {
         "webchat:FriendMessage:webchat!zhangwanli!04b75a54-b78f-4001-9a93-cf505e52f3ce": "c7300d01-2f2c-4e97-9ef2-8be3e4f403b7",
